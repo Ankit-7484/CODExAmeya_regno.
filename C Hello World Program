@@ -1,0 +1,17 @@
+/*C Hello World Program
+
+24 - December-2023
+
+Ankit Kumar Singh
+
+*/
+
+#include<stdio.h>
+
+main()
+
+{
+
+        printf("Hello World");
+
+}
